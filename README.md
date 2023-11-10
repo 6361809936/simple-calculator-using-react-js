@@ -1,42 +1,26 @@
-# simple-calculator-using-react-js
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Project Preview](./src/calc-app.png)
 
-This repository contains a simple calculator web application built with React.js.
-The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. 
-It provides a clean and user-friendly interface for performing calculations.
+## Available Scripts
 
-Features
-Responsive Design:The calculator is designed to work seamlessly on desktop and mobile devices, providing a consistent user experience.
-Basic Arithmetic Operations:Users can perform addition, subtraction, multiplication, and division operations easily.
-Clear Display:The application has a clear and concise display that shows the input expression and the calculated result.
-React Components:The calculator is built using modular React components, making the codebase modular and maintainable.
+In the project directory, you can run:
 
+### `yarn install`
 
-*******************************************************************
+Instal All dependencies in this project
 
-To run the calculator locally, follow these steps:
+### `yarn start`
 
-1. Clone the repository to your local machine.
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-   git clone [https://github.com/your-username/react-calculator.git](https://github.com/6361809936/simple-calculator-using-react-js.git)
-   or u can download the zip file from the github and extract the file and add to vs code workspace
+### Link
 
+Reactjs: https://reactjs.org/docs/create-a-new-react-app.html
+react-textfit: https://www.npmjs.com/package/react-textfit
+box-shadow: https://box-shadow.dev/
 
-2. Navigate to the project directory.
- 
-   navigate particular location made changes in terminal like cd filelocationname(where the extracted file u have saved)
+### Video Tutorial
 
-
-3. Install dependencies.
-
-   npm install
-  
-
-4. Start the development server.
-  
-   npm start
- 
-
-5. Open your browser and visit `http://localhost:3000` to use the calculator.
-
-before running these app we have to setup the node js in our laptop u can take an help from this video link:https://www.youtube.com/watch?v=zuyH4QUuTZk&t=263s
+You can see my youtube video for this project in [here](https://youtu.be/o89bhL-S6g8)

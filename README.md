@@ -18,7 +18,7 @@ To run the calculator locally, follow these steps:
 
 1. Clone the repository to your local machine.
 
-   git clone https://github.com/your-username/react-calculator.git
+   git clone [https://github.com/your-username/react-calculator.git](https://github.com/6361809936/simple-calculator-using-react-js.git)
    or u can download the zip file from the github and extract the file and add to vs code workspace
 
 

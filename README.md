@@ -12,7 +12,8 @@ Clear Display:The application has a clear and concise display that shows the inp
 React Components:The calculator is built using modular React components, making the codebase modular and maintainable.
 
 
-*******************************************************************8
+*******************************************************************
+
 To run the calculator locally, follow these steps:
 
 1. Clone the repository to your local machine.
